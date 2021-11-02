@@ -1,0 +1,27 @@
+5 5
+5
+1 1 1
+1
+1
+1
+1 2
+5
+1
+1
+1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Nonogram solver
+% Module efalg
+% Assignment 01
+%
+% Nonogram No solution
+%
+% Description:
+% This nonogram has no solution and was
+% used to test behaviour if no solution
+% exists
+% Dimensions: 5 x 5
+% Duration:
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
